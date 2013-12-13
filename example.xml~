@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kontak>
+    <kontakinfo id="1">
+        <nama>Agung</nama>
+        <tlp>1234</tlp>
+        <alamat>bandung</alamat>
+    </kontak>
+   <kontakinfo id="2">
+        <nama>ebegila</nama>
+        <tlp>4321</tlp>
+        <alamat>cisitu</alamat>
+    </kontak>
+	<kontakinfo id="3">
+	        <nama>rio</nama>
+	        <tlp>4312</tlp>
+       	 <alamat>pelisiran</alamat>
+    </kontak>
+</kontak>
+

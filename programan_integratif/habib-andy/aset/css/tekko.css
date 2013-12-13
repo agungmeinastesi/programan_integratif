@@ -1,0 +1,81 @@
+body {
+	padding-top: 70px;
+}
+
+.navbar {
+	background: #563D7C;
+	border-bottom: solid 1px #463265;
+	border-left: solid 1px #563D7C;
+	border-right: solid 1px #563D7C;
+	border-top: solid 1px #563D7C;
+	border-radius: 0;
+}
+
+.navbar-nav > li > a {
+	color: #cdbfe3 !important;
+}
+
+.navbar-nav > li > a:hover {
+	color: #fff !important;
+}
+
+.navbar-nav > .active > a, .navbar-nav > .open > a {
+	background-color: #463265 !important;
+}
+
+.navbar-nav > .dropdown > a .caret {
+	border-top-color: #fff !important;
+	border-bottom-color: #fff !important;
+}
+
+.navbar-brand {
+	color: #fff !important;
+}
+
+#footer {
+	box-sizing: border-box;
+	border-top: solid 1px #E5E5E5;
+	background: #E5E1EA;
+	padding-top: 30px;
+	padding-bottom: 30px;
+	margin-bottom: 250px;
+}
+
+#pengumuman {
+	color: #777;
+	background: #FAFAFA;
+	border-bottom: solid 1px #E5E5E5;
+}
+
+.daftar-game {
+	border-bottom: solid 1px #C6C6C6;
+	margin-bottom: -1px;
+}
+
+.daftar-game-judul {
+	font-weight: bolder;
+	display: block;
+}
+
+.daftar-game-pemain {
+	font-style: italic;
+	display: block;
+}
+
+.cari-atas {
+	border-radius: 20px;
+}
+
+.logo {
+	display: block !important;
+	margin: 0 auto;
+}
+
+.kolom-footer, .konten-footer {
+	background: #E5E1EA;
+}
+
+.konten-footer {
+	margin-top: 13px;
+	border-top: solid 2px #563D7C;
+}

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TabelMahasiswa>
+	<mahasiswa>
+		<nim>18211011</nim>
+		<nama>Gilang Ramadhan</nama>
+		<asal>Bandung</asal>
+	</mahasiswa>
+	<mahasiswa>
+		<nim>18211012</nim>
+		<nama>Raosan Fikri Lillahi</nama>
+		<asal>Jakarta</asal>
+	</mahasiswa>
+	<mahasiswa>
+		<nim>18211013</nim>
+		<nama>Andy Primawan</nama>
+		<asal>Jatinangor</asal>
+	</mahasiswa>
+	<mahasiswa>
+		<nim>18211014</nim>
+		<nama>Muhammad Fatoni</nama>
+		<asal>Pemalang</asal>
+	</mahasiswa>
+	<mahasiswa>
+		<nim>18211015</nim>
+		<nama>Antragama Ewa Abbas</nama>
+		<asal>Banjarmasin</asal>
+	</mahasiswa>
+</TabelMahasiswa>

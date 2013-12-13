@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<daftar>
+	<menu>
+		<nama>Ayam Betutu</nama>
+		<daerah>Bali</daerah>
+		<foto>ayam-betutu.jpg</foto>
+		<harga>47000</harga>
+		<kategori>makanan-berat</kategori>
+		<deskripsi>Dengan rempah-rempah dan rasa pedas yang menggigit, menjadikan menu ini wajib untuk dicicipi oleh setiap pengunjung HabibAndy Resto!</deskripsi>
+	</menu>
+	<menu>
+		<nama>Kupat Tahu</nama>
+		<daerah>Jawa</daerah>
+		<foto>kupat-tahu.jpg</foto>
+		<harga>27000</harga>
+		<kategori>makanan-berat</kategori>
+		<deskripsi></deskripsi>
+	</menu>
+	<menu>
+		<nama>Bandrek Hanjuang</nama>
+		<daerah>Jawa</daerah>
+		<foto>bandrek-hanjuang.jpg</foto>
+		<harga>13000</harga>
+		<kategori>minuman</kategori>
+		<deskripsi>Minuman tradisional khas Jawa Barat ini sarat dengan rempah-rempah. Dengan rasa agak pedas bisa memberikan kehangatan di cuara yang dingin seperti Lembang.</deskripsi>
+	</menu>
+	<menu>
+		<nama>Mie Aceh</nama>
+		<daerah>Sumatra</daerah>
+		<foto>mie-aceh.jpg</foto>
+		<harga>39000</harga>
+		<kategori>makanan-ringan</kategori>
+		<deskripsi></deskripsi>
+	</menu>
+	<menu>
+		<nama>Bakso Mbah Darmo</nama>
+		<daerah>Jawa</daerah>
+		<foto>bakso-darmo.jpg</foto>
+		<harga>67000</harga>
+		<kategori>makanan-ringan</kategori>
+		<deskripsi>Bakso legendaris dari Solo ini dihidangkan secara eksklusif di HabibAndy Resto. Rasakan gurihnya bakso racikan langsung dari Mbah Darmo, dan bersiaplah untuk bergoyang lidah</deskripsi>
+	</menu>
+</daftar>

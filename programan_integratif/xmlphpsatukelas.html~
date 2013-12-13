@@ -1,0 +1,37 @@
+<html>
+<head>
+<title>Web service</title>
+Agung Meinastesi Caesar
+</head>
+<body>
+</br>
+</br>
+Gabung Gabung XML punya Temen satu kelas (pakai php buat display xml)
+</br>
+<?php include 'xmlphpsatukelas.php'; 
+?>
+
+<?php
+$xml = simplexml_load_file('example.xml');
+
+
+echo json_encode($xml);
+
+?>
+
+</br>
+</br>
+</br>
+</br>
+--------------
+
+
+
+
+
+
+</br>
+</br>
+
+</body>
+</html>

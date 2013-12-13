@@ -1,0 +1,22 @@
+.container {
+	padding-top: 30px;
+}
+
+.inverted {
+background-color: #0088cc;
+}
+
+
+.row .btn {
+	padding: 10px;
+	margin-left: 10px;
+}
+
+.row hr{
+	border-top: 3px solid #0088cc;
+}
+
+.space{
+
+	padding-top: 10px;
+}

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+<mahasiswa>
+	<nama>Linda</nama>
+	<umur>50</umur>
+	<berat>20</berat>
+	<tinggi>170</tinggi>
+</mahasiswa>
+<mahasiswa>
+	<nama>Hafsari</nama>
+	<umur>19</umur>
+	<berat>15</berat>
+	<tinggi>160</tinggi>
+</mahasiswa>
+<mahasiswa>
+	<nama>Naruto</nama>
+	<umur>19</umur>
+	<berat>30</berat>
+	<tinggi>175</tinggi>
+</mahasiswa>
+<mahasiswa>
+	<nama>Andy</nama>
+	<umur>20</umur>
+	<berat>35</berat>
+	<tinggi>150</tinggi>
+</mahasiswa>
+<mahasiswa>
+	<nama>Harry</nama>
+	<umur>60</umur>
+	<berat>50</berat>
+	<tinggi>180</tinggi>
+</mahasiswa>
+
+</data> 

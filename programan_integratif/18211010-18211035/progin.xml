@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Tabel-Mahasiswa>
+	<mahasiswa>
+		<NIM>18211010</NIM>
+		<Nama>Muhammad Fajrin</Nama>
+		<Asal>Makassar</Asal>
+	</mahasiswa>
+	<mahasiswa>
+		<NIM>18211035</NIM>
+		<Nama>R. Ryan Adi Wicaksana</Nama>
+		<Asal>Semarang</Asal>
+	</mahasiswa>
+	<mahasiswa>
+		<NIM>18211001</NIM>
+		<Nama>Aditya Pradita</Nama>
+		<Asal>Bandung</Asal>
+	</mahasiswa>
+</Tabel-Mahasiswa>

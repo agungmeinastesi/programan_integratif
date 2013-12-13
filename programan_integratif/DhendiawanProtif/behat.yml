@@ -1,0 +1,7 @@
+# behat.yml
+default:
+    context:
+        parameters:
+            base_url: http://localhost/aqua/ianpunya/public
+
+#http://localhost/restler/public
